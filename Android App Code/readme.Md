@@ -2,4 +2,4 @@
 
 https://github.com/Teameviral/Smartdoorlocksystem/tree/master
 
-N.B. - This App might not work for fingerprint sensor. you can search others app in playstore or make your own.
+N.B. - This app might not work with your fingerprint sensor. You can search for other apps in the Play Store or make your own.
