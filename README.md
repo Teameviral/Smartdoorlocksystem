@@ -1,6 +1,13 @@
 # Smartdoorlocksystem
 The IOT Based Smart Door Lock System That is Made to Secure The Door.
 
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)](https://github.com/teameviral/smartdoorlocksystem)
+[![GitHub Stars](https://img.shields.io/github/stars/teameviral/smartdoorlocksystem)](https://github.com/teameviral/smartdoorlocksystem/stargazers)
+[![CodeFactor](https://www.codefactor.io/repository/github/teameviral/smartdoorlocksystem/badge/main)](https://www.codefactor.io/repository/github/teameviral/smartdoorlocksystem/overview/main)
+
+Your additional text goes here.
+
+
 ## Description:
 The IoT-based smart door lock system is a mini project developed by the following students from Hooghly Engineering and Technology College. It utilizes Arduino, an L293D motor driver, a DC motor, and an HC-05 Bluetooth module to create a secure and convenient door locking mechanism. The system is complemented by a custom-made mobile application for seamless control and monitoring.
 
