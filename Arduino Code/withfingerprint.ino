@@ -1,3 +1,5 @@
+// Made by Avishek Bhattacharjee
+
 #include <SoftwareSerial.h>
 
 SoftwareSerial bluetooth(10, 11); // Bluetooth module connected to pins 10 and 11
