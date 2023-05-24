@@ -10,6 +10,7 @@ The IOT Based Smart Door Lock System That is Made to Secure The Door.
 [![Version](https://img.shields.io/badge/Version-1.0-orange)](https://github.com/teameviral/smartdoorlocksystem)
 [![Verified by OpenAI Devs](https://img.shields.io/badge/Verified%20by-OpenAI%20Devs-brightgreen)](https://github.com/teameviral/smartdoorlocksystem)
 [![Verified by Microsoft Devs](https://img.shields.io/badge/Verified%20by-Microsoft%20Devs-blue)](https://github.com/teameviral/smartdoorlocksystem)
+[![Watch the Video](https://img.shields.io/badge/Watch%20the%20Video-red?style=flat-square)](https://github.com/Teameviral/Smartdoorlocksystem/blob/aa6f721d7641b826dce5c2b27f106368c79f424e/Project%20Video/VID-20230524-WA0000.mp4)
 [![Send Feedback](https://img.shields.io/badge/Send%20Feedback-Email-red)](mailto:wbavishek@gmail.com)
 
 
@@ -26,12 +27,6 @@ The IoT-based smart door lock system is a mini project developed by the followin
 | Rachana Patra    | Member     |  rachanapatra2001@gmail.com       |
 | Ria Bhattacharjee    | Member   |  riabhattacharjee58@gmail.com        |
 
-
-
-<video width="640" height="360" controls autoplay>
-  <source src="Project%20Video/VID-20230524-WA0000.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Features:
 The smart door lock system offers the following features:
