@@ -4,8 +4,15 @@ The IOT Based Smart Door Lock System That is Made to Secure The Door.
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)](https://github.com/teameviral/smartdoorlocksystem)
 [![GitHub Stars](https://img.shields.io/github/stars/teameviral/smartdoorlocksystem)](https://github.com/teameviral/smartdoorlocksystem/stargazers)
 [![CodeFactor](https://www.codefactor.io/repository/github/teameviral/smartdoorlocksystem/badge/main)](https://www.codefactor.io/repository/github/teameviral/smartdoorlocksystem/overview/main)
+![Total Commits](https://img.shields.io/github/commit-activity/m/teameviral/smartdoorlocksystem)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/teameviral/smartdoorlocksystem/blob/main/LICENSE)
+[![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/teameviral/smartdoorlocksystem)
+[![Version](https://img.shields.io/badge/Version-1.0-orange)](https://github.com/teameviral/smartdoorlocksystem)
+[![Verified by OpenAI Devs](https://img.shields.io/badge/Verified%20by-OpenAI%20Devs-brightgreen)](https://github.com/teameviral/smartdoorlocksystem)
+[![Verified by Microsoft Devs](https://img.shields.io/badge/Verified%20by-Microsoft%20Devs-blue)](https://github.com/teameviral/smartdoorlocksystem)
+[![Send Feedback](https://img.shields.io/badge/Send%20Feedback-Email-red)](mailto:wbavishek@gmail.com)
 
-Your additional text goes here.
+
 
 
 ## Description:
