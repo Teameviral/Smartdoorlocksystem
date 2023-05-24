@@ -10,7 +10,7 @@ The IoT-based smart door lock system is a mini project developed by the followin
 | Avishek Bhattacharjee     | Project Manager, Mobile App Developer        | wbavishek@gmail.com        |
 | Rudradeb Chatterjee  | Hardware Engineer      | rudradebchatterjee35@gmail.com      |
 | Rachana Patra    | Member     |  rachanapatra2001@gmail.com       |
-| Riya Bhattacharjee    | Member   | riyabhattacharjee        |
+| Riya Bhattacharjee    | Member   |  riabhattacharjee58@gmail.com        |
 
 
 ## Features:
