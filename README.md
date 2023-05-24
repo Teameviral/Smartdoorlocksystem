@@ -2,7 +2,16 @@
 The IOT Based Smart Door Lock System That is Made to Secure The Door.
 
 ## Description:
-The IoT-based smart door lock system is a project developed by a team of four members. It utilizes Arduino, an L293D motor driver, a DC motor, and an HC-05 Bluetooth module to create a secure and convenient door locking mechanism. The system is complemented by a custom-made mobile application for seamless control and monitoring.
+The IoT-based smart door lock system is a mini project developed by the following students from Hooghly Engineering and Technology College. It utilizes Arduino, an L293D motor driver, a DC motor, and an HC-05 Bluetooth module to create a secure and convenient door locking mechanism. The system is complemented by a custom-made mobile application for seamless control and monitoring.
+
+## Team Members
+| Team Member    | Role                   | Email                         |
+|----------------|------------------------|-------------------------------|
+| Avishek Bhattacharjee     | Project Manager, Mobile App Developer        | wbavishek@gmail.com        |
+| Rudradeb Chatterjee  | Hardware Engineer      | rudradebchatterjee35@gmail.com      |
+| Rachana Patra    | Member     |  rachanapatra2001@gmail.com       |
+| Riya Bhattacharjee    | Member   | riyabhattacharjee        |
+
 
 ## Features:
 The smart door lock system offers the following features:
