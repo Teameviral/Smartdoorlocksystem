@@ -2,6 +2,7 @@
 The IOT Based Smart Door Lock System That is Made to Secure The Door.
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)](https://github.com/teameviral/smartdoorlocksystem)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7965995.svg)](https://doi.org/10.5281/zenodo.7965995)
 [![GitHub Stars](https://img.shields.io/github/stars/teameviral/smartdoorlocksystem)](https://github.com/teameviral/smartdoorlocksystem/stargazers)
 [![CodeFactor](https://www.codefactor.io/repository/github/teameviral/smartdoorlocksystem/badge/main)](https://www.codefactor.io/repository/github/teameviral/smartdoorlocksystem/overview/main)
 ![Total Commits](https://img.shields.io/github/commit-activity/m/teameviral/smartdoorlocksystem)
