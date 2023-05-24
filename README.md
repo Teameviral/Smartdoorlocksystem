@@ -27,6 +27,12 @@ The IoT-based smart door lock system is a mini project developed by the followin
 | Ria Bhattacharjee    | Member   |  riabhattacharjee58@gmail.com        |
 
 
+
+<video width="640" height="360" controls autoplay>
+  <source src="Project%20Video/VID-20230524-WA0000.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features:
 The smart door lock system offers the following features:
 
